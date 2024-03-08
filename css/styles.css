@@ -3,10 +3,11 @@
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'Oswald';
 	color: #000000;
 	background-color: #f8f8fc;
 }
@@ -51,6 +52,9 @@ body {
 	flex-basis: 1.4em;
 }
 
+/* My own css class */
+
 .bg-progress {
 	background-color: #F0B43B;
 }
+
